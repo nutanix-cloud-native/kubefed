@@ -9,7 +9,7 @@ on:
 
 jobs:
   push:
-    runs-on: self-hosted-nutanix-dind-large
+    runs-on: gh-run-set-cloud-native
 
     permissions:
       packages: write
