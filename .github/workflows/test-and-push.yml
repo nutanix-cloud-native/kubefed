@@ -9,7 +9,7 @@ on:
 
 jobs:
   push:
-    runs-on: self-hosted-nutanix-dind-large
+    runs-on: ubuntu-latest
 
     permissions:
       packages: write
