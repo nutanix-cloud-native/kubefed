@@ -9,7 +9,7 @@ on:
 
 jobs:
   push:
-    runs-on: gh-run-set-cloud-native
+    runs-on: ubuntu-latest
 
     permissions:
       packages: write
