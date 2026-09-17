@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.12.2 (2026-09-17)
+
+## What's Changed
+* chore: add v0.12.1 chart to repo index by @kshcore in https://github.com/nutanix-cloud-native/kubefed/pull/72
+* chore: bump kubefed k8s deps to v0.36.2 and fix compatibility by @maheshnns in https://github.com/nutanix-cloud-native/kubefed/pull/73
+* chore: bump kubefed k8s deps to v0.37.0 by @maheshnns in https://github.com/nutanix-cloud-native/kubefed/pull/81
+
+## New Contributors
+* @maheshnns made their first contribution in https://github.com/nutanix-cloud-native/kubefed/pull/73
+
+**Full Changelog**: https://github.com/nutanix-cloud-native/kubefed/compare/v0.12.1...v0.12.2
+
 ## 0.12.1 (2026-05-26)
 
 ## What's Changed
